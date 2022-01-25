@@ -1,1 +1,2 @@
-# homework-week-8
+# homework-week-2
+Homework Week 2, Advanced CSS
